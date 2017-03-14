@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "dotnetcore", "dotnetcore\dotnetcore.xproj", "{75BBC1F7-1AD2-4792-8977-A63A98BD4363}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "dotnetcore", "dotnetcore.xproj", "{75BBC1F7-1AD2-4792-8977-A63A98BD4363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

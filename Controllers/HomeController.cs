@@ -25,7 +25,7 @@ namespace dotnetcore.Controllers
             // Creates a model and passes it on to the view.
             Employee[] model =
             {
-                new Employee { Name = "Alfred", Title = "Manager" },
+                new Employee { Name = "Abdullah", Title = "Manager" },
                 new Employee { Name = "Sarah", Title = "Accountant" }
             };
 

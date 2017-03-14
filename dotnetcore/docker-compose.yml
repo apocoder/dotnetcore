@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  dotnetcore:
+    image: user/dotnetcore${TAG}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80"
